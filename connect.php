@@ -1,7 +1,7 @@
 <?php
 $SERVER = "localhost";
-$USER  ="ema";
-$PASSWORD = "KILLERDEADKILLER";
+$USER  ="root";
+$PASSWORD = "";
 $DBNAME ="course";
 
 
